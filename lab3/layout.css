@@ -65,9 +65,10 @@ h2 span {
   color: #CCCCCC;
 }
 
-body *:not(.page):not(.con_set):not(.contents):not(.side):not(.link):not(.validator):not(.head):hover{
-  background-color: #A6CE39;
+body *:not(.page):not(.con_set):not(.contents):not(.side):not(.link):not(.validator):not(.head):hover {
+  background-color: rgba(226, 241, 244, 0.71);
 }
+
 /* body :not([class]) :hover {
   background-color: #A6CE39;
 } */
