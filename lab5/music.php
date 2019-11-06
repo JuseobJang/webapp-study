@@ -118,6 +118,7 @@
 					}
 
 				?>
+
 			</ul>
 		</div>
 
@@ -129,5 +130,6 @@
 				<img src="https://selab.hanyang.ac.kr/courses/cse326/2019/labs/images/w3c-css.png" alt="Valid CSS" />
 			</a>
 		</div>
+
 	</body>
 </html>
