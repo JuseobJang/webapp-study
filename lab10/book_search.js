@@ -50,7 +50,7 @@ function showBooks_XML(ajax) {
 		var year = book[i].getElementsByTagName("year")[0].firstChild.nodeValue;
 
 		var li = document.createElement("li");
-		li.innerHTML = title + ", by " + author + " [" + year + "]";
+		li.insert(title + ", by " + author + " [" + year + "]");
 		ul.appendChild(li);
 	}
 	console.log(ul);
