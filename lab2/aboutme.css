@@ -14,12 +14,12 @@ body{
 
 h1{
    font-size: 40pt;
-   color: #D9418C;
+   color: #000000;
    text-shadow: 3px -3px #B5B2FF;
 }
 
 h2{
-  color: #D9418C;
+  color: #000000;;
 }
 
 dl{
@@ -45,7 +45,7 @@ p:first-letter{
 }
 
 a{
-  color: #FF4F4F;
+  color: #000000;;
   text-decoration: none;
 
 }
