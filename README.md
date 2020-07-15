@@ -6,7 +6,7 @@ iiWebApplication
 > E.g. html, css, javascript, php and xml etc.     
 
 1. lab1 (html) and lab2 (CSS)
-> <img src="/image/lab1_1.png"></img>
-> <img src="/image/lab1_2.png"></img>
-> <img src="/image/lab1_3.png"></img>
+> <img src="/image/lab1_1.png" width="60%" ></img>
+> <img src="/image/lab1_2.png" width="60%" ></img>
+> <img src="/image/lab1_3.png" width="60%" ></img>
 
