@@ -20,4 +20,4 @@ WebApplication
 > <img src ="/image/lab5.png" width="60%"></img>
 
 5. lab6(PHP and html form)
-> <img src ="/image/lab5.png" width="60%"></img>
+> <img src ="/image/lab6.png" width="60%"></img>
