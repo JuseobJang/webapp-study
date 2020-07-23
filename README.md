@@ -21,3 +21,6 @@ WebApplication
 
 5. lab6(PHP and html form)
 > <img src ="/image/lab6.png" width="60%"></img>
+
+6. lab8(Javascript)
+> <img src ="/image/lab8.png" width="60%"></img>
