@@ -1,4 +1,4 @@
-WebApplication
+iWebApplication
 ==============
 2019 Web Application learn
 --------------------------
@@ -24,3 +24,6 @@ WebApplication
 
 6. lab8(Javascript)
 > <img src ="/image/lab8.png" width="60%"></img>
+
+7. lab9(Javascript prototype)
+> <img src ="/image/lab9.png" width="60%"></img> 
